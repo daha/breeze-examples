@@ -1,0 +1,11 @@
+{application, breeze_debug_example,
+ [
+  {description, "A simple Breeze application"},
+  {vsn, "0.1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {env, []}
+ ]}.

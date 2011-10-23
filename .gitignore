@@ -1,0 +1,10 @@
+ebin/
+.eunit/
+*~
+.DS_Store
+logs/
+*.beam
+deps/
+doc/
+erl_crash.dump
+debug_example/rel/breeze_debug_example/
